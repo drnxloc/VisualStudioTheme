@@ -1,0 +1,16 @@
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\bin\Release\MonokaiClassic.pkgdef
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\bin\Release\MonokaiPro-Machine.pkgdef
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\bin\Release\MonokaiPro-Octagon.pkgdef
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\bin\Release\MonokaiPro-Ristretto.pkgdef
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\bin\Release\MonokaiPro-Spectrum.pkgdef
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\bin\Release\monokaiPro.pkgdef
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\bin\Release\MonokaiPro.vsix
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\bin\Release\extension.vsixmanifest
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\obj\Release\_EmptyResource.resources
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\obj\Release\MonokaiPro.csproj.GenerateResource.cache
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\obj\Release\MonokaiPro.csproj.CoreCompileInputs.cache
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\obj\Release\MonokaiPro.dll
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\obj\Release\MonokaiPro.pdb
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\obj\Release\extension.vsixmanifest
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\obj\Release\files.json
+C:\Users\xuanl\source\repos\MonokaiPro\MonokaiPro\obj\Release\createTemplateManifests.cache

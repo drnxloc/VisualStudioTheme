@@ -1,0 +1,27 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="MonokaiPro.5236a3dc-41d9-4618-8b86-94507e0700b7" Version="1.0" Language="en-US" Publisher="Drnxloc" />
+    <DisplayName>MonokaiPro</DisplayName>
+    <Description xml:space="preserve">VSIX Project Monokai Visual Studio</Description>
+    <Tags>1.0.0</Tags>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="monokaiPro.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="MonokaiClassic.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="MonokaiPro-Machine.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="MonokaiPro-Octagon.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="MonokaiPro-Ristretto.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="MonokaiPro-Spectrum.pkgdef" />
+  </Assets>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+</PackageManifest>
